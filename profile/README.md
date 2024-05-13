@@ -16,9 +16,8 @@ Colaboramos estrechamente con universidades y empresas tecnológicas para diseñ
 
 Si estás interesado en saber más sobre nosotros o quieres explorar posibles colaboraciones, no dudes en contactarnos:
 
-- **Email:** example@globalalumni.org
-- **Teléfono:** +34 1234567890
 - **Sitio web:** [www.globalalumni.org](http://www.globalalumni.org)
+- **LinkedIn:** [Global Alumni](https://www.linkedin.com/company/global-alumni)
 
 ## Aviso Importante
 
